@@ -1,0 +1,12 @@
+{
+  "timeZone": "en-US",
+  "isSkipInvalidProxy": false,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "isDoTasks": true,
+  "isPlayGames": true,
+  "referralCode": "",
+  "howManyBoostWantToBuy": 1,
+  "howManyAutoMiningWantToBuy": 1
+}
